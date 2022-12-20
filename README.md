@@ -1,4 +1,4 @@
-# FoodApp
+# FoodRecipes_APP
 
 This is a app to discover different dishes having different ingrediants, from different cuisines and even a random dish chooser. 
 
