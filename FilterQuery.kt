@@ -1,4 +1,4 @@
-package com.example.foodapp.models
+package com.evinurastina.foodapp.models
 
 import java.io.Serializable
 
