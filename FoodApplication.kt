@@ -1,4 +1,4 @@
-package com.example.foodapp
+package com.evinurastina.foodapp
 
 import android.app.Application
 
