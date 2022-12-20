@@ -1,4 +1,4 @@
-package com.example.foodapp.ui.fragments
+package com.evinurastina.foodapp.ui.fragments
 
 import android.os.Bundle
 import android.util.Log
