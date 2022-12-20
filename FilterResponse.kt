@@ -1,4 +1,4 @@
-package com.example.foodapp.models
+package com.evinurastina.foodapp.models
 
 data class FilterResponse(
     val meals: List<Meal>?
