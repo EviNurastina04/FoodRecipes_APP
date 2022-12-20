@@ -1,4 +1,4 @@
-package com.example.foodapp.api
+package com.evinurastina.foodapp.api
 
 import com.example.foodapp.models.CategoriesResponse
 import com.example.foodapp.models.FilterResponse
