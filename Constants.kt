@@ -1,4 +1,4 @@
-package com.example.foodapp.util
+package com.evinurastina.foodapp.util
 
 class Constants {
     companion object {
