@@ -1,4 +1,4 @@
-package com.example.foodapp.ui.viewModels
+package com.evinurastina.foodapp.ui.viewModels
 
 import android.app.Application
 import android.content.Context
