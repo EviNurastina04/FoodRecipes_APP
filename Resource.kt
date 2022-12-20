@@ -1,4 +1,4 @@
-package com.example.foodapp.util
+package com.evinurastina.foodapp.util
 
 sealed class Resource<T>(
     val data:T?=null,
