@@ -1,15 +1,15 @@
-package com.example.foodapp.ui
+package com.evinurastina.foodapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.foodapp.R
-import com.example.foodapp.databinding.ActivityMainBinding
-import com.example.foodapp.repository.FoodRepository
-import com.example.foodapp.ui.viewModels.FoodViewModel
-import com.example.foodapp.ui.viewModels.FoodViewModelProviderFactory
+import com.evinurastina.foodapp.R
+import com.evinurastina.foodapp.databinding.ActivityMainBinding
+import com.evinurastina.foodapp.repository.FoodRepository
+import com.evinurastina.foodapp.ui.viewModels.FoodViewModel
+import com.evinurastina.foodapp.ui.viewModels.FoodViewModelProviderFactory
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
