@@ -1,9 +1,9 @@
-package com.example.foodapp.repository
+package com.evinurastina.foodapp.repository
 
-import com.example.foodapp.api.RetrofitInstance
-import com.example.foodapp.models.CategoriesResponse
-import com.example.foodapp.models.FilterResponse
-import com.example.foodapp.models.RecipeResponse
+import com.evinurastina.foodapp.api.RetrofitInstance
+import com.evinurastina.foodapp.models.CategoriesResponse
+import com.evinurastina.foodapp.models.FilterResponse
+import com.evinurastina.foodapp.models.RecipeResponse
 import retrofit2.Response
 import java.util.logging.Filter
 
