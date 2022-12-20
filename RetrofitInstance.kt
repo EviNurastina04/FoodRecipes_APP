@@ -1,6 +1,6 @@
-package com.example.foodapp.api
+package com.evinurastina.foodapp.api
 
-import com.example.foodapp.util.Constants.Companion.BASE_URL
+import com.evinurastina.foodapp.util.Constants.Companion.BASE_URL
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
