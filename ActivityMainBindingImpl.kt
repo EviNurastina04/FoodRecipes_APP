@@ -1,6 +1,6 @@
-package com.example.foodapp.databinding;
-import com.example.foodapp.R;
-import com.example.foodapp.BR;
+package com.evinurastina.foodapp.databinding;
+import com.evinurastina.foodapp.R;
+import com.evinurastina.foodapp.BR;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import android.view.View;
