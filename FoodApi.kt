@@ -8,7 +8,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface FoodApi {
-
+// https://themealdb.com/api/json/v1/1/categories.php
     @GET("api/json/v1/1/categories.php")
     suspend fun getCategories(
     ) : Response<CategoriesResponse>
